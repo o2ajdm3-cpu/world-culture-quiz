@@ -1,1 +1,7 @@
-# world-culture-quiz
+# 세계 문화 탐험대
+
+5개 나라 문화 학습과 모둠 퀴즈 사이트입니다. 영상 10개, Supabase 퀴즈 서버 연동.
+
+GitHub Settings → Pages → Source: GitHub Actions로 설정하면 자동 배포됩니다.
+
+주의: 기존 Floot 퀴즈 기록은 이전되지 않았으며, 공개된 화면 코드만으로 교사 인증이 보호되지 않습니다. 실제 학생 대상 운영 전 교사 인증 강화가 필요합니다.

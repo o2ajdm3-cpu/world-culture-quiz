@@ -1,0 +1,1 @@
+import React from 'react';export function Input(props:any){return <input {...props} style={{border:'1px solid #b9cfc8',borderRadius:11,padding:'12px 14px',fontSize:16,minWidth:0,flex:1,...props.style}}/>}
